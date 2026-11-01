@@ -63,4 +63,4 @@ My focus: machine learning and deep learning, generative AI, and the reliability
 
 ## Languages
 
-French (C1) · English (improving) · Arabic (native)
+French (C1) · English (C1) · Arabic (native)
