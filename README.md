@@ -10,7 +10,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
+<p align="center">
+  Machine Learning • Deep Learning • Computer Vision • Time Series • Reinforcement Learning • Generative AI<br>
+  LLM Agents • RAG • Embeddings • Fine-tuning • Model Evaluation<br>
+  Supply Chain • Energy & IoT • Anomaly Detection • Monte Carlo • Uncertainty Quantification
+</p>
 ---
 
 ## About
