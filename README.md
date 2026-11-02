@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist & AI Engineer</b><br>
-  Final-year engineering student at Centrale Casablanca · M2 Mathematics & AI, Université Paris-Saclay (2026)
+  Centrale Casablanca · M2 Mathematics & AI, Université Paris-Saclay (2026)
 </p>
 
 <p align="center">
