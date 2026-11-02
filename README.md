@@ -30,7 +30,7 @@ My focus: machine learning and deep learning, generative AI, and the reliability
 - Forecasting models (LSTM, Transformers) trained on IoT sensor streams to detect anomalies and drift.
 - Deployed in a real-time monitoring platform with alerts, tuning the trade-off between sensitivity and false alarms.
 
-**Operator Intern, Qualitas Environmental Solution** · Jun 2024 – Aug 2024 · Morocco
+**Operator Intern, Qualitas Environmental Solution** · Jun 2024 – Aug 2024 · Casablanca
 - Data extraction and consolidation in SQL; AI-based detection system, Flask application and Power BI dashboards.
 
 ## Academic projects
