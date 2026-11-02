@@ -40,8 +40,7 @@ My focus: machine learning and deep learning, generative AI, and the reliability
 ## Academic projects
 
 - **RAG, fine-tuning and AI agents** (Université Paris-Saclay, 2025–2026): complete RAG pipeline (chunking, embeddings, vector database, semantic search) with source-grounded answers; retrieval and generation evaluated separately.
-- **Deep learning vision & optimal transport** (CentraleSupélec × Sopra Steria, 2025): object detection, segmentation and classification on complex imagery; failure-case analysis and client presentation.
-- **Stochastic modeling & uncertainty quantification** (CentraleSupélec, 2025): Monte Carlo simulation, variance reduction, compute budget vs. precision trade-offs.
+- **[Drone Image Recognition with YOLO and Optimal Transport](https://github.com/noahparisse/drone-image-recognition-S8-project)**: I built the optimal transport classifier. It compares features of detected objects using a Sinkhorn-based optimal transport distance, then classifies them with a KNN on class prototypes.- **Stochastic modeling & uncertainty quantification** (CentraleSupélec, 2025): Monte Carlo simulation, variance reduction, compute budget vs. precision trade-offs.
 
 ## Skills
 
